@@ -1,0 +1,11 @@
+{
+  "records": [
+    {
+      "id": "friction-1",
+      "run": "pass-4",
+      "chainage_m": 207,
+      "coefficient": 0.41
+    }
+  ],
+  "minimum_coefficient": 0.45
+}

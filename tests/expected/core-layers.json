@@ -1,0 +1,15 @@
+[
+  {
+    "fact_id": "core-8",
+    "layers": [
+      {
+        "layer": "overlay",
+        "thickness_mm": 42
+      },
+      {
+        "layer": "base",
+        "thickness_mm": 68
+      }
+    ]
+  }
+]

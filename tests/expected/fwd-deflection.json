@@ -1,0 +1,12 @@
+[
+  {
+    "fact_id": "P5@40.0",
+    "point": "P5",
+    "load_kn": 40,
+    "mean_center_um": 210,
+    "drops": [
+      "drop-2",
+      "drop-3"
+    ]
+  }
+]

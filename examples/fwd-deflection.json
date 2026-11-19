@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "id": "drop-2",
+      "point": "P5",
+      "load_kn": 40,
+      "center_deflection_um": 200
+    },
+    {
+      "id": "drop-3",
+      "point": "P5",
+      "load_kn": 40,
+      "center_deflection_um": 220
+    }
+  ]
+}

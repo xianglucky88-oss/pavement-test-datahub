@@ -1,0 +1,10 @@
+[
+  {
+    "fact_id": "drive-02",
+    "lane": "L1",
+    "start_m": 100,
+    "end_m": 102,
+    "sample_count": 3,
+    "rms_step_mm": 3
+  }
+]

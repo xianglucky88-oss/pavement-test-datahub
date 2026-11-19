@@ -1,0 +1,25 @@
+{
+  "records": [
+    {
+      "id": "drive-02",
+      "lane": "L1",
+      "points": [
+        {
+          "id": "P0",
+          "chainage_m": 100,
+          "elevation_mm": 20
+        },
+        {
+          "id": "P1",
+          "chainage_m": 101,
+          "elevation_mm": 23
+        },
+        {
+          "id": "P2",
+          "chainage_m": 102,
+          "elevation_mm": 20
+        }
+      ]
+    }
+  ]
+}

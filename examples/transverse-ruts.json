@@ -1,0 +1,12 @@
+{
+  "records": [
+    {
+      "id": "profile-5",
+      "chainage_m": 220,
+      "left_reference_mm": 35,
+      "left_observed_mm": 29,
+      "right_reference_mm": 38,
+      "right_observed_mm": 30
+    }
+  ]
+}
